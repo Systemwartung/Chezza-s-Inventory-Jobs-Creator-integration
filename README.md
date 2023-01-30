@@ -6,6 +6,7 @@ Use Chezza's Inventory with Jobs Creator for stashes, safes, armories and for se
 
 ## Demo
 
+https://user-images.githubusercontent.com/62596786/215553222-5dd2995e-10e9-47b9-9127-29d9403ca9f9.mp4
 
 
 ## Installation
