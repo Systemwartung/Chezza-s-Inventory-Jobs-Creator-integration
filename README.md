@@ -1,1 +1,1 @@
-# Chezza-s-Inventory-Jobs-Creator-integration
+A Integratin for Chezza's Inventory to use with Jobs Creator
