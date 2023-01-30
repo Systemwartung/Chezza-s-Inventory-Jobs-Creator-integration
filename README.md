@@ -1,5 +1,5 @@
 
-# A integratin for Chezza's Inventory to use with Jobs Creator
+# A integration for Chezza's Inventory to use with Jobs Creator
 
 Use Chezza's Inventory with Jobs Creator for stashes, safes, armories and for searching players.
 
