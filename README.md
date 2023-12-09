@@ -5,11 +5,9 @@ Use Chezza's Inventory with Jobs Creator for stashes, safes, armories and for se
 
 ## Installation
 
-Put ```cl_ch-inventory.lua``` into your Jobs Creator folder by default ```/jobs_creator/integrations/```.
+Put ```jobs_creator_intgration``` folder into your resources folder and start it.
 
-Open ```sh_integrations.lua``` and change ```INVENTORY_TO_USE = "default"``` to ```INVENTORY_TO_USE = "ch-inventory"```
-
-Restart your server or Jobs Creator and enjoy
+Make sure that the resource starts after Jobs-Creator.
 
 ## Demo
 
