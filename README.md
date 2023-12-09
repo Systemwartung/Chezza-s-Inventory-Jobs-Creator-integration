@@ -9,7 +9,7 @@ Put ```jobs_creator_intgration``` into your resources folder.
 
 Start the resource and enjoy.
 
-Make sure that the resource starts after Jobs-Creator.
+**Make sure that the resource starts after Jobs-Creator!**
 
 ## Demo
 
