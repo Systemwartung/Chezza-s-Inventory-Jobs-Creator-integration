@@ -5,7 +5,9 @@ Use Chezza's Inventory with Jobs Creator for stashes, safes, armories and for se
 
 ## Installation
 
-Put ```jobs_creator_intgration``` folder into your resources folder and start it.
+Put ```jobs_creator_intgration``` into your resources folder.
+
+Start the resource and enjoy.
 
 Make sure that the resource starts after Jobs-Creator.
 
